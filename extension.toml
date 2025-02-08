@@ -1,0 +1,7 @@
+id = "configurable-syntax"
+name = "configurable Syntax"
+version = "0.0.1"
+schema_version = 1
+authors = ["Richard McHorgh <mchorghr2@gmail.com>"]
+description = "This extension adds configurable syntax highlighting to Zed. I use it for foldable regions and multi-classed comments."
+repository = ""
